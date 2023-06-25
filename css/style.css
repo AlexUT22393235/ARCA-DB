@@ -1,0 +1,55 @@
+* {
+    background-color: bisque;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 4px;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* transition: background-color 0.3s ease; */
+  }
+  
+  .btn-animal {
+    
+    background-image: url('img/funny-animals-animals.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+  
+  .btn-alimentacion {
+  
+    background-image: url('img/animal2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+  
+  .btn-habitat {
+
+    background-image: url('img/animal3.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+  
+  .btn-clasificacion {
+  
+    background-image: url('img/animal4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+  
+  /* .btn:hover {
+    background-color: #aaa;
+  }
+   */
